@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: single
 title: "Projects 專案作品"
 permalink: /projects/
+sidebar:
+  nav: "main"
 ---
 
 # Projects  
