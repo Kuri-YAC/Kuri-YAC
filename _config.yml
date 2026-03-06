@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "鱷魚去背.png"
+  avatar           : "profile.png"
   name             : "陳勇安"
   pronouns         : # example: "she/her"  
   bio              : "您在看我嗎?"
