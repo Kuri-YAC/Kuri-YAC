@@ -8,17 +8,17 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "About 關於我"
+  - title: "About me"
     url: /about/
 
-  - title: "Projects 專案作品"
+  - title: "Projects"
     url: /projects/
 
-  - title: "Engineering Notes 工程筆記"
+  - title: "Engineering Notes"
     url: /engineering-notes/
 
-  - title: "Blog 部落格"
+  - title: "Blog"
     url: /blog/
 
-  - title: "Experience 經歷"
+  - title: "Profile"
     url: /experience/
