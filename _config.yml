@@ -13,7 +13,7 @@ title                    : "陳勇安 / Mechanical Engineer"
 title_separator          : "-"
 name                     : &name "陳勇安"
 description              : &description "陳勇安 的 portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://kuri-yac.github.io/Kuri-YAC" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://kuri-yac.github.io/Kuri-YAC # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/Kuri-YAC"
 repository               : "academicpages/academicpages.github.io"
