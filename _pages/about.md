@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-# About Me
-
 I am a mechanical engineer with a strong interest in mechanical design, manufacturing, and automation.  
 My background focuses on turning design concepts into practical and manufacturable mechanical systems.
 
